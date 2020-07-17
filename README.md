@@ -1,16 +1,11 @@
 # calculator
 
-A new Flutter project.
+This is a basic calculator application developed on flutter. 
+I had not use that much logic of calculator on it. 
+It is just to give basic idea about UI designing on flutter with some good block of codes on Dart Language.
 
-## Getting Started
+Thank_You
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Contact_for_help_on_codes
+Email Id: techcodesmart@gmail.com
+DevPB_Codes
