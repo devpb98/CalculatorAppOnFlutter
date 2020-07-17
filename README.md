@@ -1,4 +1,4 @@
-# calculator
+# Calculator App On Flutter
 
 This is a basic calculator application developed on flutter. 
 I had not use that much logic of calculator on it. 
